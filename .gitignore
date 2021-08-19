@@ -1,3 +1,5 @@
 *.swp
 venv/
 .vscode/settings.json
+
+api/.venv

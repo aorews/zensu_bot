@@ -1,0 +1,5 @@
+flake8-commas==2.0.0
+flake8-import-order==0.18.1
+flake8-quotes==3.2.0
+flake8==3.9.2
+pep8-naming==0.12.1
